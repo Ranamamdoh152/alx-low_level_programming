@@ -31,5 +31,4 @@ int _isupper(int c)
 	else
 		return (0);
 
->>>>>>> 12e19465c3204c05baedf87aeb375917fa08495a
 }
